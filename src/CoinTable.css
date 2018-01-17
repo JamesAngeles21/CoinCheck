@@ -1,0 +1,15 @@
+.coin-table, th, td, tr{
+	border: 1px solid black;
+}
+
+th, tr {
+	text-align: center;
+	padding: 10px;
+}
+
+.coin-table {
+	position: relative;
+	margin: auto;
+	width: 70%;
+
+}
